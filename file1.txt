@@ -1,2 +1,3 @@
 Questo è la prima riga di un file
 Aggiungo una riga per fare "git diff"
+Ora metto una terza riga per fare altri test
