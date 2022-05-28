@@ -1,1 +1,2 @@
 Questo è la prima riga di un file
+Aggiungo una riga per fare "git diff"
